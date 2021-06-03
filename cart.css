@@ -35,7 +35,9 @@ input[type="text"]{
 a{
   text-decoration: none;
 }
-
+.table{
+  overflow: auto;
+}
 /*.dec{
     padding: 5px 10px;
     border:1px solid #333;
