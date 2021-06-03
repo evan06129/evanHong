@@ -35,7 +35,7 @@ input[type="text"]{
 a{
   text-decoration: none;
 }
-.table{
+table ,tr ,th ,td ,{
   overflow: auto;
 }
 /*.dec{
