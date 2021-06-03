@@ -36,7 +36,7 @@ a{
   text-decoration: none;
 }
 table ,tr ,th ,td ,{
-  overflow: auto;
+  overflow-y: scroll;
 }
 /*.dec{
     padding: 5px 10px;
